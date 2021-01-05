@@ -8,6 +8,8 @@ sudo chmod +x  Udemy Course Coupons.pyc
 
 ./"Udemy Course Coupons.pyc"
 
+add your 
+
 Disclaimer : 
 
 I didn't responsible if any thing happens

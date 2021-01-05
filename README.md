@@ -12,6 +12,8 @@ add your
 
 Disclaimer : 
 
+don't use this frequently
+
 I didn't responsible if any thing happens
 
 If you want to contact me

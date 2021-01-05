@@ -1,4 +1,4 @@
-# Udemy-Course-Coupons
+# Udemy-Course-Coupon
 
 git clone https://github.com/NoOneLuvMe/Udemy-Course-Coupons.git
 

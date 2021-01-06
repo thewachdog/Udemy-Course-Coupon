@@ -5,7 +5,7 @@
 
 Installation:
 
-git clone https://github.com/NoOneLuvMe/Udemy-Course-Coupons.git
+git clone https://github.com/NoOneLuvMe/Udemy-Course-Coupon.git
 
 sudo pip install -r requirements.txt
 

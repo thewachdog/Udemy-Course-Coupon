@@ -9,11 +9,13 @@ git clone https://github.com/NoOneLuvMe/Udemy-Course-Coupons.git
 
 sudo pip install -r requirements.txt
 
-sudo chmod +x  Udemy Course Coupons.pyc
+sudo chmod +x  "Udemy Course Coupons.py"
 
-./"Udemy Course Coupons.pyc"
+./"Udemy Course Coupons.py"
 
-add your 
+add your credits 
+
+enjoy !!
 
 Disclaimer : 
 
